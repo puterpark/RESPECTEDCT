@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: WEB_PRJ
+Bundle-SymbolicName: WEB_PRJ
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.kosmo.db,
+ com.kosmo.member

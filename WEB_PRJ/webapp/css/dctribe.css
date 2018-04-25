@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+body {background:#fffff0 url(../images/fences.gif) center repeat-y;}
+#logo a, #logo a:visited, #logo a:hover, .white {color:#fffff0;}
+#logoimg {background:transparent url(../images/logo.gif) center no-repeat;vertical-align:middle;}
+#header {background:#755c24 url(../images/bgtop.gif) repeat;}
+#header a, #header a:visited {color:#fffff0;}
+#container {border-left:1px solid #dfdbbd;border-right:1px solid #dfdbbd;}
